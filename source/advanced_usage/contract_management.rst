@@ -2,7 +2,7 @@
 合约管理
 ============
 
- XuperChain 支持丰富的智能合约开发语言，比如go，Solitidy，C++，Java等。 
+ XuperChain 支持丰富的智能合约开发语言，比如go，Solidity，C++，Java等。 
 
 
 
